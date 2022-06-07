@@ -3,13 +3,6 @@
 App for fetching, visuallizing and analyzing news articles with ease.
 This app uses the `newsapi` in order to get the latest and greatest of stories
 
-## Table of Contents
-
-- [Technologies]
-- [Usage](#usage)
-- [Support](#support)
-- [Contributing](#contributing)
-
 ## Technologies
 
 - backend : Nodejs
@@ -42,3 +35,4 @@ and store results in a DB for quicker serving
 - Authentication was harder than expected
 - Dealing with usage loads - we haven't implemented any load balancing for the app (nginx or similar)
 - connecting the services was harder than expected
+- We didn't have the time to invest in UX
