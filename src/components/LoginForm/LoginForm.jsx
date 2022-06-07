@@ -17,8 +17,6 @@ function LoginForm() {
         password : data.get('password')
       }),
     })
-
-    const token = await response.json()
   }  
 
   return (
